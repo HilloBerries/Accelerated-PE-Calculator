@@ -6,5 +6,5 @@ Accelerated PE Calculator is a TI-84 calculator program with useful tools for we
 3. Run through the PRGM menu
 
 [Included Tools]:
-• Warm Up Calculator
-• Plate Calculator
+1. Warm Up Calculator
+2. Plate Calculator
